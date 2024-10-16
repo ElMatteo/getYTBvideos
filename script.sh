@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#GOOGLE API KEY
 API_KEY="YOU_API_KEY"
 
 # https://www.streamweasels.com/tools/youtube-channel-id-and-user-id-convertor/
